@@ -3,7 +3,7 @@
 		<h1>Hugo Bruhier</h1>
 		<h3><span style="color: #999999;">Doctorant en optique diffractive</span></h3>
 		<p>Je suis depuis 2019 doctorant au <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> sur une th&egrave;se, dirig&eacute; par Isabelle Verrier, Yves Jourlin et J&eacute;r&ocirc;me Brunet (<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a>). Cette th&egrave;se s'inscrit dans le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">ANR CAPTAIN</a> sur la cr&eacute;ation d'un capteur plasmonique pour la d&eacute;tection de polluants atmosph&eacute;riques.</p>
-		<h4>Th&egrave;mes de recherche</h4>
+		<h4>Thématiques de recherche</h4>
 		<ul>
 			<li>R&eacute;seaux de diffraction</li>
 			<li>Mod&eacute;lisation &eacute;lectromagn&eacute;tique</li>
@@ -21,10 +21,19 @@
 		<h4>Oraux et posters</h4>
 		<ul>
 			<li>Surface plasmons propagation along metallic rough diffraction gratings<br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet, Y. Jourlin<br /><em>SPIE Photonics Europe 2022</em>, 2022, <a href="https://doi.org/10.1117/12.2620944">[link]</a> (oral)</li>
-			<li>R´eseau de diffraction résonant activé thermiquement par dioxyde de vanadium<br /><strong>H. Bruhier</strong>, E. K. Koussi, I. Verrier, T. Kampfe, S. Reynaud, F. Bourquard, D. Jamon, O. Parriaux, Y. Jourlin<br /><em>Congrès Optique de la SFO</em>, 2021, <a href="https://hal.archives-ouvertes.fr/hal-03346630">[link]</a> (poster)</li>
+			<li>Réseau de diffraction résonant activé thermiquement par dioxyde de vanadium<br /><strong>H. Bruhier</strong>, E. K. Koussi, I. Verrier, T. Kampfe, S. Reynaud, F. Bourquard, D. Jamon, O. Parriaux, Y. Jourlin<br /><em>Congrès Optique de la SFO</em>, 2021, <a href="https://hal.archives-ouvertes.fr/hal-03346630">[link]</a> (poster)</li>
 			<li>Fabrication of a Resonant Waveguide Grating (RWG) with a single-step TiO2 sol-gel technological approach on planar and non-conventional substrate (cylinder)<br />M. A. Usuga Higuita, Y. Jourlin, N. Crespo-Monteiro, F. Vocanson, D. Jamon, M. Langlet, M. Hochedel, A. Valour, <strong>H. Bruhier</strong><br /><em>2nd Edition of World Nanotechnology Conference</em>, 2021, <a href="https://hal.archives-ouvertes.fr/hal-03273603">[link]</a> (oral)</li>
-			<li>Resonant grating demonstration in the inner wall of a cylinder<br />E. K. Koussi, <strong>H. Bruhier</strong>, M. A. Usuga Higuita, I. Verrier, N. Crespo-Monteiro, O. Parriaux, Y. Jourin<br /><em>EOS- Topical meeting on diffractive optics conference</em>, 2019, <a href="https://hal.archives-ouvertes.fr/hal-02348191">[link]</a> (oral)</li>
-			<li> </li>
+			<li>Resonant grating demonstration in the inner wall of a cylinder<br />E. K. Koussi, <strong>H. Bruhier</strong>, M. A. Usuga Higuita, I. Verrier, N. Crespo-Monteiro, O. Parriaux, Y. Jourlin<br /><em>EOS- Topical meeting on diffractive optics conference</em>, 2019, <a href="https://hal.archives-ouvertes.fr/hal-02348191">[link]</a> (oral)</li>
+			<li>Cylindrical Integrated Optic Resonant Reflection<br />E. K. Koussi, <strong>H. Bruhier</strong>, I. Verrier, N. Crespo-Monteiro, O. Parriaux, Y. Jourlin<br /><em>ECIO European Conference of Integrated Optics</em>, 2019, <a href="https://hal.archives-ouvertes.fr/hal-02348028">[link]</a> (poster)</li>
+			<li>Holistic excitation of a grating-coupled waveguide at the inner wall of a glass tube<br />E.K. Koussi, <strong>H. Bruhier</strong>, I. Verrier, C. Veillas, T. Kampfe, N. Crespo-Monteiro, D. Jamon, O. Parriaux, Y. Jourlin<br /><em>Photoptics</em>, 2019, <a href="https://hal.archives-ouvertes.fr/hal-02056463">[link]</a> (oral)</li>
+		</ul>
+		<h4>Participation à des projets de recherche</h4>
+		<ul>
+			<li>CAPTAIN</li>
+			<li>PROTECT</li>
+			<li>LUEUR</li>
+			<li>MICROSOLEN</li>
+			<li>R2EX</li>
 		</ul>
 		<h4>Enseignement</h4>
 		<ul>
