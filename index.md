@@ -26,7 +26,7 @@
 		</ul>
 		<h4>Encadrement de stagiaires</h4>
 		<ul>
-		<li><p>Yaël Pichon</p>:Automatisation d'un banc de mesure angulaire <br />Avril-Juin 2022, co-supervisé avec Yves Jourlin, Isabelle Verrier et Nicolas Crespo-Monteiro</li>
+		<li><strong>Yaël Pichon</strong>:Automatisation d'un banc de mesure angulaire<br />Avril-Juin 2022, co-supervisé avec Yves Jourlin, Isabelle Verrier et Nicolas Crespo-Monteiro</li>
 		</ul>
 		
 		<h4>Divers</h4>
