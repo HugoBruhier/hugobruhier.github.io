@@ -29,7 +29,7 @@
 		</ul>
 		<h4>Participation à des projets de recherche</h4>
 		<ul>
-			<li>CAPTAIN : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnelles</a>) avec l'<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a> (équipe <a href="http://www.institutpascal.uca.fr/index.php/fr/minamat/61-photon/492-minamat-operation-capteurs-de-gaz-microsystemes">PHOTON-MINAMAT</a>) ainsi que les entreprises <a href="https://www.silsef.com/">Silsef</a> et <a href="https://www.envea.global/fr/">Envea</a>.</li>
+			<li><a href="CAPTAIN.md">CAPTAIN</a> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnelles</a>) avec l'<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a> (équipe <a href="http://www.institutpascal.uca.fr/index.php/fr/minamat/61-photon/492-minamat-operation-capteurs-de-gaz-microsystemes">PHOTON-MINAMAT</a>) ainsi que les entreprises <a href="https://www.silsef.com/">Silsef</a> et <a href="https://www.envea.global/fr/">Envea</a>.</li>
 			<li>PROTECT : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnelles</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>.</li>
 			<li>LUEUR : partenariat de l'<a href="https://iccf.uca.fr/#/">Institut de Chimie de Clermont-Ferrand</a> (équipe <a href="https://iccf.uca.fr/recherche/materiaux-inorganiques/materiaux-luminescents#/admin">Matériaux luminescents</a>) avec le <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnelles</a>) et l'entreprise <a href="https://www.silsef.com/">Silsef</a>.</li>
 			<li>MICROSOLEN : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnelles</a>) avec le <a href="https://lmgp.grenoble-inp.fr/">Laboratoire des Matériaux et du Génie Physique</a> (équipe ) et l'entreprise <a href="https://www.silsef.com/">Silsef</a>. </li>
@@ -37,10 +37,11 @@
 		</ul>
 		<h4>Enseignement</h4>
 		<ul>
-			<li>2021-2022 : TP M&eacute;trologie (IUT), TP Electronique Num&eacute;rique (IUT), TP Optique Ondulatoire (IUT), CM/TD Statistiques Industrielles (Ecole d'ing&eacute;nieur)</li>
+			<li>2021-2022 : TP Electronique Num&eacute;rique (IUT), TP Optique Ondulatoire (IUT), CM/TD Statistiques Industrielles (Ecole d'ing&eacute;nieur)</li>
 			<li>2020-2021 : TP M&eacute;trologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donn&eacute;es (IUT), CM/TD Statistiques Industrielles (Ecole d'ing&eacute;nieur)</li>
 			<li>2019-2020 : TP M&eacute;trologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donn&eacute;s (IUT)</li>
 		</ul>
+		<h4>Détails des cours</h4>
 		<ul>
 			<li><em>CM/TD Statistiques Industrielles</em><br />Rappels des bases de probabilités et statistiques. Tests du &xi<sup>2</sup>. Régression linéaire, multilinéaire et introduction à la régression non-linéaire.</li>
 			<li><em>TP Electronique Numérique</em><br />Notions à l'utilisation de la FFT sur es oscillosccopes numériques, étude et caractérisation de systèmes du deuxième ordre, oscillateur à pont de Wien, introduction à la modulation d'amplitude et introduction à l'asservissement par PID.</li>
