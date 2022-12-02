@@ -1,6 +1,5 @@
 plugins:
   - jekyll-relative-links
-theme: jekyll-theme-minimal
 title: Hugo Bruhier
 relative_links:
   enabled: true
