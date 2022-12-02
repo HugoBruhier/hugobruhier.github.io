@@ -1,5 +1,7 @@
 plugins:
   - jekyll-relative-links
+theme: jekyll-theme-minimal
+title: Hugo Bruhier
 relative_links:
   enabled: true
   collections: true
@@ -12,3 +14,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - index.md
+  - CAPTAIN.md
