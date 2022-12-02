@@ -29,11 +29,11 @@
 		</ul>
 		<h4>Participation à des projets de recherche</h4>
 		<ul>
-			<li>CAPTAIN</li>
-			<li>PROTECT</li>
-			<li>LUEUR</li>
-			<li>MICROSOLEN</li>
-			<li>R2EX</li>
+			<li>CAPTAIN : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnelles</a>) avec l'<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a> (équipe <a href="http://www.institutpascal.uca.fr/index.php/fr/minamat/61-photon/492-minamat-operation-capteurs-de-gaz-microsystemes">PHOTON-MINAMAT</a>) ainsi que les entreprises <a href="https://www.silsef.com/">Silsef</a> et <a href="https://www.envea.global/fr/">Envea</a>.</li>
+			<li>PROTECT : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnelles</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>.</li>
+			<li>LUEUR : partenariat de l'<a href="https://iccf.uca.fr/#/">Institut de Chimie de Clermont-Ferrand</a> (équipe <a href="https://iccf.uca.fr/recherche/materiaux-inorganiques/materiaux-luminescents#/admin">Matériaux luminescents</a>) avec le <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnelles</a>) et l'entreprise <a href="https://www.silsef.com/">Silsef</a>.</li>
+			<li>MICROSOLEN : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnelles</a>) avec le <a href="https://lmgp.grenoble-inp.fr/">Laboratoire des Matériaux et du Génie Physique</a> (équipe ) et l'entreprise <a href="https://www.silsef.com/">Silsef</a>. </li>
+			<li>R2EX : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnelles</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>.</li>
 		</ul>
 		<h4>Enseignement</h4>
 		<ul>
