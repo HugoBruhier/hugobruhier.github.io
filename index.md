@@ -13,10 +13,10 @@
 		</ul>
 		<h4 style="color: #2e6c80;"><span style="color: #000000;">Publications internationales</span></h4>
 		<ul>
-			<li>Effect of roughness on surface plasmons propagation along deep and shallow metallic diffraction gratings<br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet et Y. Jourlin<br /><em>Optics Letters</em>, 2022, <a href="https://doi.org/10.1364/OL.443659">[link]</a></li>
-			<li>Thermally activated resonant grating using a vanadium dioxide waveguide<br />E. K. Koussi, I. Verrier, T. K&auml;mpfe, S. Reynaud, F. Bourquard, D. Jamon, <strong>H. Bruhier</strong>, Y. Jourlin et O. Parriaux<br /><em>Optics Express</em>, 2022, <a href="https://doi.org/10.1364/OME.413373">[link]</a></li>
-			<li>Resonant waveguide grating fabrication on planar and cylindrical substrates using a photosensitive TiO2 sol-gel approach<br />M. A. Usuga Higuita, <strong>H. Bruhier</strong>, M. Hochedel, T. Kampfe, F. Vocanson, A. Valour, D. Jamon, M. Langlet, N. Crespo-Monteiro et Y. Jourlin<br /><em>Optical Materials Express</em>, 2021, <a href="https://doi.org/10.1364/OME.411560">[link]</a></li>
-			<li>Resonant Reflection From Cylindrical Grating-Waveguide Under Holistic Excitation<br />E.K. Koussi, <strong>H. Bruhier</strong>, M. A. Usuga Higita, I. Verrier, C. Veillas, T. Kampfe, S. Reynaud, N. Crespo-Monteiro, O. Parriaux et Y. Jourlin&nbsp;<br /><em>IEEE Photonics Journal</em>, 2020, <a href="https://doi.org/10.1109/JPHOT.2020.2966146">[link]</a></li>
+			<li>Effect of roughness on surface plasmons propagation along deep and shallow metallic diffraction gratings<br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet et Y. Jourlin<br /><em>Optics Letters</em>, 2022 <a href="https://doi.org/10.1364/OL.443659">[link]</a></li>
+			<li>Thermally activated resonant grating using a vanadium dioxide waveguide<br />E. K. Koussi, I. Verrier, T. K&auml;mpfe, S. Reynaud, F. Bourquard, D. Jamon, <strong>H. Bruhier</strong>, Y. Jourlin et O. Parriaux<br /><em>Optics Express</em>, 2022 <a href="https://doi.org/10.1364/OME.413373">[link]</a></li>
+			<li>Resonant waveguide grating fabrication on planar and cylindrical substrates using a photosensitive TiO2 sol-gel approach<br />M. A. Usuga Higuita, <strong>H. Bruhier</strong>, M. Hochedel, T. Kampfe, F. Vocanson, A. Valour, D. Jamon, M. Langlet, N. Crespo-Monteiro et Y. Jourlin<br /><em>Optical Materials Express</em>, 2021 <a href="https://doi.org/10.1364/OME.411560">[link]</a></li>
+			<li>Resonant Reflection From Cylindrical Grating-Waveguide Under Holistic Excitation<br />E.K. Koussi, <strong>H. Bruhier</strong>, M. A. Usuga Higita, I. Verrier, C. Veillas, T. Kampfe, S. Reynaud, N. Crespo-Monteiro, O. Parriaux et Y. Jourlin&nbsp;<br /><em>IEEE Photonics Journal</em>, 2020 <a href="https://doi.org/10.1109/JPHOT.2020.2966146">[link]</a></li>
 		</ul>
 		<h4>Oraux et posters</h4>
 		<ul>
@@ -43,6 +43,10 @@
 		</ul>
 		<ul>
 			<li><em>CM/TD Statistiques Industrielles</em><br />Rappels des bases de probabilités et statistiques. Tests du &xi<sup>2</sup>. Régression linéaire, multilinéaire et introduction à la régression non-linéaire.</li>
+			<li><em>TP Electronique Numérique</em><br />Notions à l'utilisation de la FFT sur es oscillosccopes numériques, étude et caractérisation de systèmes du deuxième ordre, oscillateur à pont de Wien, introduction à la modulation d'amplitude et introduction à l'asservissement par PID.</li>
+			<li><em>TP Métrologie</em><br />Caractérisation de l'incertitude d'une chaine de mesure dans son ensemble, vérification d'appareils de mesures à partir d'étalon, incertitude par loi de propagation et introduction aux tests du &xi<sup>2</sup>.</li>
+			<li><em>TP Optique Ondulatoire</em><br />Caractérisation d'une diode laser, introduction à la polarisation, mesure optique par la figure de diffraction, filtrage spatial, mise en place d'une monochromateur et mesure de température/déformation par réseau de Bragg.</li>
+			<li><em>TP Traitement des données</em><br />Introduction à l'utilisation d'Excel pour un métrologue : tracé de courbes et d'histogrammes, droite de régression, calcul d'incertitudes.</li>
 		</ul>
 		<h4>Encadrement de stagiaires</h4>
 		<ul>
