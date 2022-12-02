@@ -41,6 +41,9 @@
 			<li>2020-2021 : TP M&eacute;trologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donn&eacute;es (IUT), CM/TD Statistiques Industrielles (Ecole d'ing&eacute;nieur)</li>
 			<li>2019-2020 : TP M&eacute;trologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donn&eacute;s (IUT)</li>
 		</ul>
+		<ul>
+			<li><em>CM/TD Statistiques Industrielles</em><br />Rappels des bases de probabilités et statistiques. Tests du &xi<sup>2</sup>. Régression linéaire, multilinéaire et introduction à la régression non-linéaire.</li>
+		</ul>
 		<h4>Encadrement de stagiaires</h4>
 		<ul>
 			<li><strong>Yaël Pichon</strong> : Automatisation d'un banc de mesure angulaire<br />Avril-Juin 2022, co-supervisé avec Yves Jourlin, Isabelle Verrier et Nicolas Crespo-Monteiro</li>
