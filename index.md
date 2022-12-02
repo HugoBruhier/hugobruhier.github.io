@@ -47,7 +47,7 @@
 			<li><em>TP Electronique Numérique</em><br />Notions à l'utilisation de la FFT sur es oscillosccopes numériques, étude et caractérisation de systèmes du deuxième ordre, oscillateur à pont de Wien, introduction à la modulation d'amplitude et introduction à l'asservissement par PID.</li>
 			<li><em>TP Métrologie</em><br />Caractérisation de l'incertitude d'une chaine de mesure dans son ensemble, vérification d'appareils de mesures à partir d'étalon, incertitude par loi de propagation et introduction aux tests du &xi<sup>2</sup>.</li>
 			<li><em>TP Optique Ondulatoire</em><br />Caractérisation d'une diode laser, introduction à la polarisation, mesure optique par la figure de diffraction, filtrage spatial, mise en place d'une monochromateur et mesure de température/déformation par réseau de Bragg.</li>
-			<li><em>TP Traitement des données</em><br />Introduction à l'utilisation d'Excel pour un métrologue : tracé de courbes et d'histogrammes, droite de régression, calcul d'incertitudes.</li>
+			<li><em>TP Traitement des données</em><br />Introduction à l'utilisation d'Excel pour la métrologie : tracé de courbes et d'histogrammes, droite de régression, calcul d'incertitudes.</li>
 		</ul>
 		<h4>Encadrement de stagiaires</h4>
 		<ul>
