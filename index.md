@@ -56,11 +56,11 @@
 		</ul>
 		<h4>Détail des participations aux projets de recherche</h4>
 		<ul>
-			<li><a id="ProjetCaptain">CAPTAIN<\a></li>
+			<li><h5><a id="ProjetCaptain">CAPTAIN</a></h5></li>
 		</ul>
 		<h4>Enseignement</h4>
 		<ul>
-			<li>2023-2024 : TP Conditionnement des signaux analogiques (BUT)<\li>
+			<li>2023-2024 : TP Conditionnement des signaux analogiques (BUT)</li>
 			<li>2021-2022 : TP Electronique Numérique (IUT), TP Optique Ondulatoire (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur)</li>
 			<li>2020-2021 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des données (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur)</li>
 			<li>2019-2020 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donnés (IUT)</li>
