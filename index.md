@@ -13,7 +13,9 @@
 			h4 {
   				text-align: center;
 				}
-</style>
+			h5 {
+  				text-align: center;
+				}
 </head>
 
 	<body>
@@ -57,7 +59,7 @@
 		</ul>
 		<h4>Détail des participations aux projets de recherche</h4>
 			<h5><a id="ProjetCaptain">CAPTAIN</a></h5>
-				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">CAPTAIN</a> a eu pour but de développer une nouvelle génération de capteurs plasmoniques 
+				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">CAPTAIN</a> a eu pour but de développer une nouvelle génération de capteurs plasmoniques se basant sur l'effet switch [1], [2]. Cette effet plasmonique, utilisant un réseau de diffraction 
 		
 		<h4>Enseignement</h4>
 		<ul>
