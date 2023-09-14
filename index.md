@@ -1,18 +1,39 @@
 <html>
+	<head>
+		<style>
+			h1 {
+  				text-align: center;
+				}
+			h2 {
+  				text-align: center;
+				}
+			h3 {
+  				text-align: center;
+				}
+			h4 {
+  				text-align: center;
+				}
+</style>
+</head>
+
 	<body>
 		<h1>Hugo Bruhier</h1>
-		<h3><span style="color: #999999;">Doctorant en optique diffractive</span></h3>
-		<p>Je suis depuis 2019 doctorant au <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> sur une th&egrave;se, dirig&eacute; par Isabelle Verrier, Yves Jourlin et J&eacute;r&ocirc;me Brunet (<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a>). Cette th&egrave;se s'inscrit dans le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">ANR CAPTAIN</a> sur la cr&eacute;ation d'un capteur plasmonique pour la d&eacute;tection de polluants atmosph&eacute;riques.</p>
+		<h3><span style="color: #999999;">Post-doctorant en irradiation laser femtosecondes</span></h3>
+		<p>Après un doctorat au <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> sur l'optique diffractive et le développement d'un capteur de polluants atmosphériques au sein du projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">ANR CAPTAIN</a> je suis en post-doctorat sur l'irradiation laser femto-seconde. Ce nouveau projet s'inscrit dans le cadre du projet <a href="https://manutech-sleight.com/sleight-s-research-projects/safe-research-project-259621.kjsp">SAFE</a> au seins du laboratoire Matéis, coordonné par Philippe Steyer, où un laser ultrabref est utilisé pour modifier la surface de verres métalliques ZrCu et ZrCuAg.</p>
 		<h4>Thématiques de recherche</h4>
 		<ul>
+			<li>Irradiation laser</li>
+			<li>Lasers ultra-brefs</li>
+			<li>LIPSS</li>
 			<li>Optique diffractive</li>
 			<li>Traitement des données / Métrologie</li>
 			<li>Nano-fabrication</li>
 		</ul>
 		<h4 style="color: #2e6c80;"><span style="color: #000000;">Publications internationales</span></h4>
 		<ul>
+			<li><strong>SiN/VO2/SiN Sandwich‐Based Resonant Waveguide Grating to Produce Thermally Activated Optical Components</strong><br />Y. Bleu, <strong>H. Bruhier</strong>, T. Pouit, A. Valour, D. Jamon, N. Crespo-Monteiro, L. Dubost, F. Bourquard, C. Donnet, O. Parriaux et Y. Jourlin<br /><em>Advanced Optical Materials</em>, 2023 <a href="https://doi.org/10.1002/adom.202300126">[link]</a></li>
 			<li><strong>Effect of roughness on surface plasmons propagation along deep and shallow metallic diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet et Y. Jourlin<br /><em>Optics Letters</em>, 2022 <a href="https://doi.org/10.1364/OL.443659">[link]</a></li>
-			<li><strong>Thermally activated resonant grating using a vanadium dioxide waveguide</strong><br />E. K. Koussi, I. Verrier, T. K&auml;mpfe, S. Reynaud, F. Bourquard, D. Jamon, <strong>H. Bruhier</strong>, Y. Jourlin et O. Parriaux<br /><em>Optics Express</em>, 2022 <a href="https://doi.org/10.1364/OME.413373">[link]</a></li>
+			<li><strong>Thermally activated resonant grating using a vanadium dioxide waveguide</strong><br />E. K. Koussi, I. Verrier, T. K&auml;mpfe, S. Reynaud, F. Bourquard, D. Jamon, <strong>H. Bruhier</strong>, Y. Jourlin et O. Parriaux<br /><em>Optics Express</em>, 2021 <a href="https://doi.org/10.1364/OME.413373">[link]</a></li>
 			<li><strong>Resonant waveguide grating fabrication on planar and cylindrical substrates using a photosensitive TiO2 sol-gel approach</strong><br />M. A. Usuga Higuita, <strong>H. Bruhier</strong>, M. Hochedel, T. Kampfe, F. Vocanson, A. Valour, D. Jamon, M. Langlet, N. Crespo-Monteiro et Y. Jourlin<br /><em>Optical Materials Express</em>, 2021 <a href="https://doi.org/10.1364/OME.411560">[link]</a></li>
 			<li><strong>Resonant Reflection From Cylindrical Grating-Waveguide Under Holistic Excitation</strong><br />E.K. Koussi, <strong>H. Bruhier</strong>, M. A. Usuga Higita, I. Verrier, C. Veillas, T. Kampfe, S. Reynaud, N. Crespo-Monteiro, O. Parriaux et Y. Jourlin&nbsp;<br /><em>IEEE Photonics Journal</em>, 2020 <a href="https://doi.org/10.1109/JPHOT.2020.2966146">[link]</a></li>
 		</ul>
@@ -25,19 +46,24 @@
 			<li><strong>Cylindrical Integrated Optic Resonant Reflection</strong><br />E. K. Koussi, <strong>H. Bruhier</strong>, I. Verrier, N. Crespo-Monteiro, O. Parriaux, Y. Jourlin<br /><em>ECIO European Conference of Integrated Optics</em>, 2019 <a href="https://hal.archives-ouvertes.fr/hal-02348028">[link]</a> (poster)</li>
 			<li><strong>Holistic excitation of a grating-coupled waveguide at the inner wall of a glass tube</strong><br />E.K. Koussi, <strong>H. Bruhier</strong>, I. Verrier, C. Veillas, T. Kampfe, N. Crespo-Monteiro, D. Jamon, O. Parriaux, Y. Jourlin<br /><em>Photoptics</em>, 2019 <a href="https://hal.archives-ouvertes.fr/hal-02056463">[link]</a> (oral)</li>
 		</ul>
-		<h4>Participation à des projets de recherche</h4>
+		<h4>Liste des participation à des projets de recherche</h4>
 		<ul>
-			<li><strong><a href="CAPTAIN.html">CAPTAIN</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) avec l'<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a> (équipe <a href="http://www.institutpascal.uca.fr/index.php/fr/minamat/61-photon/492-minamat-operation-capteurs-de-gaz-microsystemes">PHOTON-MINAMAT</a>) ainsi que les entreprises <a href="https://www.silsef.com/">Silsef</a> et <a href="https://www.envea.global/fr/">Envea</a>.</li>
+			<li><strong><a href="#ProjetCaptain">CAPTAIN</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) avec l'<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a> (équipe <a href="http://www.institutpascal.uca.fr/index.php/fr/minamat/61-photon/492-minamat-operation-capteurs-de-gaz-microsystemes">PHOTON-MINAMAT</a>) ainsi que les entreprises <a href="https://www.silsef.com/">Silsef</a> et <a href="https://www.envea.global/fr/">Envea</a>. <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a></li>
 			<li><strong><a href="PROTECT.html">PROTECT</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a>, <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html">Architecture matérielle et sécurité des systèmes embarqués</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>.</li>
 			<li><strong>LUEUR</strong> : partenariat de l'<a href="https://iccf.uca.fr/#/">Institut de Chimie de Clermont-Ferrand</a> (équipe <a href="https://iccf.uca.fr/recherche/materiaux-inorganiques/materiaux-luminescents#/admin">Matériaux luminescents</a>) avec le <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) et l'entreprise <a href="https://www.silsef.com/">Silsef</a>.</li>
 			<li><strong>MICROSOLEN</strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) avec le <a href="https://lmgp.grenoble-inp.fr/">Laboratoire des Matériaux et du Génie Physique</a> (équipe ) et l'entreprise <a href="https://www.silsef.com/">Silsef</a>. </li>
 			<li><strong>R2EX</strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>.</li>
 		</ul>
+		<h4>Détail des participations aux projets de recherche</h4>
+		<ul>
+			<li><a id="ProjetCaptain">CAPTAIN<\a></li>
+		</ul>
 		<h4>Enseignement</h4>
 		<ul>
-			<li>2021-2022 : TP Electronique Num&eacute;rique (IUT), TP Optique Ondulatoire (IUT), CM/TD Statistiques Industrielles (Ecole d'ing&eacute;nieur)</li>
-			<li>2020-2021 : TP M&eacute;trologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donn&eacute;es (IUT), CM/TD Statistiques Industrielles (Ecole d'ing&eacute;nieur)</li>
-			<li>2019-2020 : TP M&eacute;trologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donn&eacute;s (IUT)</li>
+			<li>2023-2024 : TP Conditionnement des signaux analogiques (BUT)<\li>
+			<li>2021-2022 : TP Electronique Numérique (IUT), TP Optique Ondulatoire (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur)</li>
+			<li>2020-2021 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des données (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur)</li>
+			<li>2019-2020 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donnés (IUT)</li>
 		</ul>
 		<h4>Détails des cours</h4>
 		<ul>
@@ -49,6 +75,7 @@
 		</ul>
 		<h4>Encadrement de stagiaires</h4>
 		<ul>
+			<li><strong>Cécilia Perrette</strong> : Caractérisation dans l'espace fréquentiel d'images MEB<br />Juin-Juillet 2023, co-supervisée avec Florent Bourquard</li>
 			<li><strong>Yaël Pichon</strong> : Automatisation d'un banc de mesure angulaire<br />Avril-Juin 2022, co-supervisé avec Yves Jourlin, Isabelle Verrier et Nicolas Crespo-Monteiro</li>
 		</ul>
 		<h4>Divers</h4>
