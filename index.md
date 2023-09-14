@@ -48,6 +48,7 @@
 		</ul>
 		<h4>Liste des participation à des projets de recherche</h4>
 		<ul>
+			<li><strong><a href="#ProjetSafe">SAFE</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) avec l'<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a> (équipe <a href="http://www.institutpascal.uca.fr/index.php/fr/minamat/61-photon/492-minamat-operation-capteurs-de-gaz-microsystemes">PHOTON-MINAMAT</a>) ainsi que les entreprises <a href="https://www.silsef.com/">Silsef</a> et <a href="https://www.envea.global/fr/">Envea</a>. <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a></li>
 			<li><strong><a href="#ProjetCaptain">CAPTAIN</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) avec l'<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a> (équipe <a href="http://www.institutpascal.uca.fr/index.php/fr/minamat/61-photon/492-minamat-operation-capteurs-de-gaz-microsystemes">PHOTON-MINAMAT</a>) ainsi que les entreprises <a href="https://www.silsef.com/">Silsef</a> et <a href="https://www.envea.global/fr/">Envea</a>. <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a></li>
 			<li><strong><a href="#ProjetProtect">PROTECT</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a>, <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html">Architecture matérielle et sécurité des systèmes embarqués</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>.</li>
 			<li><strong><a href="#ProjetLueur">LUEUR</a></strong> : partenariat de l'<a href="https://iccf.uca.fr/#/">Institut de Chimie de Clermont-Ferrand</a> (équipe <a href="https://iccf.uca.fr/recherche/materiaux-inorganiques/materiaux-luminescents#/admin">Matériaux luminescents</a>) avec le <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) et l'entreprise <a href="https://www.silsef.com/">Silsef</a>.</li>
@@ -55,23 +56,23 @@
 			<li><strong><a href="#ProjetR2EX">R2EX</strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>.</li>
 		</ul>
 		<h4>Détail des participations aux projets de recherche</h4>
-		<ul>
-			<li><h5><a id="ProjetCaptain">CAPTAIN</a></h5></li>
-		</ul>
+			<h5><a id="ProjetCaptain">CAPTAIN</a></h5>
+				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">CAPTAIN</a> a eu pour but de développer une nouvelle génération de capteurs plasmoniques 
+		
 		<h4>Enseignement</h4>
 		<ul>
-			<li>2023-2024 : TP Conditionnement des signaux analogiques (BUT)</li>
-			<li>2021-2022 : TP Electronique Numérique (IUT), TP Optique Ondulatoire (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur)</li>
+			<li>2023-2024 : TP Conditionnement des signaux analogiques (IUT)</li>
+			<li>2021-2022 : TP Conditionnement des signaux analogiques (IUT), TP Optique Ondulatoire (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur)</li>
 			<li>2020-2021 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des données (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur)</li>
 			<li>2019-2020 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donnés (IUT)</li>
 		</ul>
 		<h4>Détails des cours</h4>
 		<ul>
 			<li><em>CM/TD Statistiques Industrielles</em><br />Rappels des bases de probabilités et statistiques. Tests du &xi<sup>2</sup>. Régression linéaire, multilinéaire et introduction à la régression non-linéaire.</li>
-			<li><em>TP Electronique Numérique</em><br />Notions à l'utilisation de la FFT sur es oscillosccopes numériques, étude et caractérisation de systèmes du deuxième ordre, oscillateur à pont de Wien, introduction à la modulation d'amplitude et introduction à l'asservissement par PID.</li>
-			<li><em>TP Métrologie</em><br />Caractérisation de l'incertitude d'une chaine de mesure dans son ensemble, vérification d'appareils de mesures à partir d'étalon, incertitude par loi de propagation et introduction aux tests du &xi<sup>2</sup>.</li>
-			<li><em>TP Optique Ondulatoire</em><br />Caractérisation d'une diode laser, introduction à la polarisation, mesure optique par la figure de diffraction, filtrage spatial, mise en place d'une monochromateur et mesure de température/déformation par réseau de Bragg.</li>
-			<li><em>TP Traitement des données</em><br />Introduction à l'utilisation d'Excel pour la métrologie : tracé de courbes et d'histogrammes, droite de régression, calcul d'incertitudes.</li>
+			<li><em>TP Conditionnement des signaux analogiques</em><br />Notions à l'utilisation de la FFT sur es oscillosccopes numériques, étude et caractérisation de systèmes du deuxième ordre, oscillateur à pont de Wien, introduction à la modulation d'amplitude et introduction à l'asservissement par PID.(DUT Mesures Physiques Saint-Etienne, 2<sup>ème</sup> année et BUT Mesures Physiques Saint-Etienne, 2<sup>ème</sup> année)</li>
+			<li><em>TP Métrologie</em><br />Caractérisation de l'incertitude d'une chaine de mesure dans son ensemble, vérification d'appareils de mesures à partir d'étalon, incertitude par loi de propagation et introduction aux tests du &xi<sup>2</sup>. (DUT Mesures Physiques Saint-Etienne, 2<sup>ème</sup> année)</li>
+			<li><em>TP Optique Ondulatoire</em><br />Caractérisation d'une diode laser, introduction à la polarisation, mesure optique par la figure de diffraction, filtrage spatial, mise en place d'une monochromateur et mesure de température/déformation par réseau de Bragg. (DUT Mesures Physiques Saint-Etienne, 2<sup>ème</sup> année)</li>
+			<li><em>TP Traitement des données</em><br />Introduction à l'utilisation d'Excel pour la métrologie : tracé de courbes et d'histogrammes, droite de régression, calcul d'incertitudes. (DUT Mesures Physiques Saint-Etienne, 1<sup>ère</sup> année)</li>
 		</ul>
 		<h4>Encadrement de stagiaires</h4>
 		<ul>
