@@ -3,7 +3,7 @@
 		<style>
 			h1 {
   				text-align: center;
-				}
+				}Z
 			h2 {
   				text-align: center;
 				}
@@ -18,7 +18,7 @@
 
 	<body>
 		<h1>Hugo Bruhier</h1>
-		<h3><span style="color: #999999;">Post-doctorant en irradiation laser femtosecondes</span></h3>
+		<h3><span style="color: #999999;">Postt-doctorant en irradiation laser femtosecondes</span></h3>
 		<p>Après un doctorat au <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> sur l'optique diffractive et le développement d'un capteur de polluants atmosphériques au sein du projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">ANR CAPTAIN</a> je suis en post-doctorat sur l'irradiation laser femto-seconde. Ce nouveau projet s'inscrit dans le cadre du projet <a href="https://manutech-sleight.com/sleight-s-research-projects/safe-research-project-259621.kjsp">SAFE</a> au seins du laboratoire Matéis, coordonné par Philippe Steyer, où un laser ultrabref est utilisé pour modifier la surface de verres métalliques ZrCu et ZrCuAg.</p>
 		<h4>Thématiques de recherche</h4>
 		<ul>
