@@ -3,7 +3,7 @@
 		<style>
 			h1 {
   				text-align: center;
-				}Z
+				}
 			h2 {
   				text-align: center;
 				}
