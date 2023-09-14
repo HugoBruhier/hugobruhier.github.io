@@ -16,10 +16,11 @@
 			h5 {
   				text-align: center;
 				}
-</head>
-
+				</style>
+	</head>
 	<body>
 		<!--<h1>Hugo Bruhier</h1>-->
+		Page en construction
 		<h3><span style="color: #999999;">Post-doctorant en irradiation laser femtosecondes</span></h3>
 		<p>Après un doctorat au <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> sur l'optique diffractive et le développement d'un capteur de polluants atmosphériques au sein du projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">ANR CAPTAIN</a> je suis en post-doctorat sur l'irradiation laser femto-seconde. Ce nouveau projet s'inscrit dans le cadre du projet <a href="https://manutech-sleight.com/sleight-s-research-projects/safe-research-project-259621.kjsp">SAFE</a> au seins du laboratoire Matéis, coordonné par Philippe Steyer, où un laser ultrabref est utilisé pour modifier la surface de verres métalliques ZrCu et ZrCuAg pour des applications biologiques.</p>
 		<h4>Thématiques de recherche</h4>
@@ -48,9 +49,9 @@
 			<li><strong>Cylindrical Integrated Optic Resonant Reflection</strong><br />E. K. Koussi, <strong>H. Bruhier</strong>, I. Verrier, N. Crespo-Monteiro, O. Parriaux, Y. Jourlin<br /><em>ECIO European Conference of Integrated Optics</em>, 2019 <a href="https://hal.archives-ouvertes.fr/hal-02348028">[link]</a> (poster)</li>
 			<li><strong>Holistic excitation of a grating-coupled waveguide at the inner wall of a glass tube</strong><br />E.K. Koussi, <strong>H. Bruhier</strong>, I. Verrier, C. Veillas, T. Kampfe, N. Crespo-Monteiro, D. Jamon, O. Parriaux, Y. Jourlin<br /><em>Photoptics</em>, 2019 <a href="https://hal.archives-ouvertes.fr/hal-02056463">[link]</a> (oral)</li>
 		</ul>
-		<h4>Liste des participation à des projets de recherche</h4>
+		<h4>Liste des projets de recherche auxquels j'ai participé</h4>
 		<ul>
-			<li><strong><a href="#ProjetSafe">SAFE</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) avec l'<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a> (équipe <a href="http://www.institutpascal.uca.fr/index.php/fr/minamat/61-photon/492-minamat-operation-capteurs-de-gaz-microsystemes">PHOTON-MINAMAT</a>) ainsi que les entreprises <a href="https://www.silsef.com/">Silsef</a> et <a href="https://www.envea.global/fr/">Envea</a>. <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a></li>
+			<li><strong><a href="#ProjetSafe">SAFE</a></strong> : partenariat de <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">MatéIS</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) avec l'<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a> (équipe <a href="http://www.institutpascal.uca.fr/index.php/fr/minamat/61-photon/492-minamat-operation-capteurs-de-gaz-microsystemes">PHOTON-MINAMAT</a>) ainsi que les entreprises <a href="https://www.silsef.com/">Silsef</a> et <a href="https://www.envea.global/fr/">Envea</a>. <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a></li>
 			<li><strong><a href="#ProjetCaptain">CAPTAIN</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) avec l'<a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal</a> (équipe <a href="http://www.institutpascal.uca.fr/index.php/fr/minamat/61-photon/492-minamat-operation-capteurs-de-gaz-microsystemes">PHOTON-MINAMAT</a>) ainsi que les entreprises <a href="https://www.silsef.com/">Silsef</a> et <a href="https://www.envea.global/fr/">Envea</a>. <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a></li>
 			<li><strong><a href="#ProjetProtect">PROTECT</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a>, <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html">Architecture matérielle et sécurité des systèmes embarqués</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>.</li>
 			<li><strong><a href="#ProjetLueur">LUEUR</a></strong> : partenariat de l'<a href="https://iccf.uca.fr/#/">Institut de Chimie de Clermont-Ferrand</a> (équipe <a href="https://iccf.uca.fr/recherche/materiaux-inorganiques/materiaux-luminescents#/admin">Matériaux luminescents</a>) avec le <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) et l'entreprise <a href="https://www.silsef.com/">Silsef</a>.</li>
@@ -58,9 +59,18 @@
 			<li><strong><a href="#ProjetR2EX">R2EX</strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>.</li>
 		</ul>
 		<h4>Détail des participations aux projets de recherche</h4>
+			<h5><a id="ProjetSafe">SAFE</a></h5>
+				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">SAFE</a>
 			<h5><a id="ProjetCaptain">CAPTAIN</a></h5>
-				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">CAPTAIN</a> a eu pour but de développer une nouvelle génération de capteurs plasmoniques se basant sur l'effet switch [1], [2]. Cette effet plasmonique, utilisant un réseau de diffraction 
-		
+				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">CAPTAIN</a> a eu pour but de développer une nouvelle génération de capteurs plasmoniques se basant sur l'effet switch [1], [2]. Cette effet plasmonique, utilisant un réseau de diffraction métallique profond, permet un transfert d'énergie dans la réponse angulaire du réseau de diffraction entre deux ordres, l'ordre 0 et l'ordre -1, comme le montre l'image ci-dessous.
+			<h5><a id="ProjetProtect">PROTECT</a></h5>
+				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">PROTECT</a>
+			<h5><a id="ProjetLueur">LUEUR</a></h5>
+				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">LUEUR</a>
+			<h5><a id="ProjetMicrosolen">MICROSOLEN</a></h5>
+				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">MICROSOLEN</a>
+			<h5><a id="ProjetR2EX">R2EX</a></h5>
+				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">R2EX</a>
 		<h4>Enseignement</h4>
 		<ul>
 			<li>2023-2024 : TP Conditionnement des signaux analogiques (IUT)</li>
