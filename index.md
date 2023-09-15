@@ -24,6 +24,7 @@
 			}
 			p {
 				text-align: center;
+				font-style: italic;
 			}
 		</style>
 	</head>
