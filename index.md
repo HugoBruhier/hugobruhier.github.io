@@ -16,6 +16,12 @@
 			h5 {
   				text-align: center;
 				}
+			.center {
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 50%;
+			}
 		</style>
 	</head>
 	<body>
@@ -65,10 +71,11 @@
 			<h5><a id="ProjetCaptain">CAPTAIN</a> (2018-2023)</h5>
 				<h6>Résumé du projet</h6>
 					Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">CAPTAIN</a> a eu pour but de développer une nouvelle génération de capteurs plasmoniques se basant sur l'effet switch plasmonique. Cet effet plasmonique, utilisant un réseau de diffraction métallique profond, permet un transfert d'énergie dans la réponse angulaire du réseau de diffraction entre deux ordres, l'ordre 0 et l'ordre -1, comme le montre le graphique ci-dessous.
+					<img src="Switch.png" alt="Switch" class="center">
 				<h6>Principaux résultats</h6>
 					<ul>
 						<li>Fabrication et réplication en sol-gel de réseaux sinusoïdaux "profonds"</li>
-						<li>Démonstration de la possibilité d'utiliser l'effet switch comme mesure de variation d'indice [3]</li>
+						<li>Démonstration de la possibilité d'utiliser l'effet switch comme mesure de variation d'indice</li>
 						<li>Sensibilité plasmonique de la phtalocyanine de cuivre à une gaz réducteur (NH<sub>3</sub>)</li>
 					</ul>
 				<h6>Missions effectuées</h6>
