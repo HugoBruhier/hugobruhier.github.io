@@ -64,9 +64,30 @@
 				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">SAFE</a>
 			<h5><a id="ProjetCaptain">CAPTAIN</a> (2018-2023)</h5>
 				<h6>Résumé du projet</h6>
-					Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">CAPTAIN</a> a eu pour but de développer une nouvelle génération de capteurs plasmoniques se basant sur l'effet switch [1], [2]. Cette effet plasmonique, utilisant un réseau de diffraction métallique profond, permet un transfert d'énergie dans la réponse angulaire du réseau de diffraction entre deux ordres, l'ordre 0 et l'ordre -1, comme le montre l'image ci-dessous.
+					Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">CAPTAIN</a> a eu pour but de développer une nouvelle génération de capteurs plasmoniques se basant sur l'effet switch [1], [2]. Cette effet plasmonique, utilisant un réseau de diffraction métallique profond, permet un transfert d'énergie dans la réponse angulaire du réseau de diffraction entre deux ordres, l'ordre 0 et l'ordre -1, comme le montre le graphique ci-dessous.
+				<h6>Principaux résultats</h6>
+					<ul>
+						<li>Fabrication et réplication en sol-gel de réseaux sinusoïdaux "profonds"</li>
+						<li>Démonstration de la possibilité d'utiliser l'effet switch comme mesure de variation d'indice [3]</li>
+						<li>Sensibilité plasmonique de la phtalocyanine de cuivre à une gaz réducteur (NH<sub>3</sub>)</li>
+					</ul>
 				<h6>Missions effectuées</h6>
-				<h6>Publications/conférences</h6>
+					<ul>
+						<li>Modélisation électromagnétique de réseaux plasmoniques sinusoïdaux profonds (méthode Chandezon [4])</li>
+						<li>Fabrication par lithographie laser interférentielle de réseaux sinusoïdaux profonds</li>
+						<li>Dépôt de couches métalliques fines par évapoation thermique</li>
+						<li>Caractérisation topographique des structures fabriquées</li>
+						<li>Analyse métrologique de la chaîne de mesure mise en place pour le capteur</li>
+						<li>Instrumentation des bancs de mesures de la réponse angulaire et de la réponse plasmonique</li>
+					</ul>
+				<h6>Publications/conférences liées au projet</h6>
+					<ul>
+						<li><strong>Common-mode plasmon sensing scheme as a high-sensitivity compact SPR sensor</strong><br /><strong>H. Bruhier</strong>, J. Dutems, E. Laffont, N. Crespo-Monteiro, I. Verrier, O. Parriaux, P. Berini et Y. Jourlin<br /><em>Optics Letters</em>, 2023 <a href="https://doi.org/10.1364/OL.483692">[link]</a></li>
+						<li><strong>Surface plasmons propagation along metallic rough diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet, Y. Jourlin<br /><em>SPIE Photonics Europe 2022</em>, 2022 <a href="https://doi.org/10.1117/12.2620944">[link]</a> (oral)</li>
+						<li><strong>Effect of roughness on surface plasmons propagation along deep and shallow metallic diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet et Y. Jourlin<br /><em>Optics Letters</em>, 2022 <a href="https://doi.org/10.1364/OL.443659">[link]</a></li>
+						<li><strong>Ultra hight sensitive NO<sub>2</sub> gas microsensor for environmental monitoring or mapping urban air quality</strong><br />T. Gueye, J. Brunet, A. Ndiaye, C. Varenne, E. Riuz et A. Pauly<br /><em>Sensors 2021</em>, 2021 <a href="https://hal.science/hal-03607665v1">[link]</a> (oral)</li>
+					</ul>
+				<h6>Références</h6>
 			<h5><a id="ProjetProtect">PROTECT</a> (2021-2023)</h5>
 				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">PROTECT</a>
 			<h5><a id="ProjetLueur">LUEUR</a> (2019-2023)</h5>
