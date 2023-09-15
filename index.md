@@ -89,7 +89,6 @@
 						<li><strong>Effect of roughness on surface plasmons propagation along deep and shallow metallic diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet et Y. Jourlin<br /><em>Optics Letters</em>, 2022 <a href="https://doi.org/10.1364/OL.443659">[link]</a></li>
 						<li><strong>Ultra hight sensitive NO<sub>2</sub> gas microsensor for environmental monitoring or mapping urban air quality</strong><br />T. Gueye, J. Brunet, A. Ndiaye, C. Varenne, E. Riuz et A. Pauly<br /><em>Sensors 2021</em>, 2021 <a href="https://hal.science/hal-03607665v1">[link]</a> (oral)</li>
 					</ul>
-				<h6>Références</h6>
 			<h5><a id="ProjetProtect">PROTECT</a> (2021-2023)</h5>
 				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">PROTECT</a>
 			<h5><a id="ProjetLueur">LUEUR</a> (2019-2023)</h5>
