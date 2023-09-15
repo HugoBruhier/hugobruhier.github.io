@@ -22,6 +22,9 @@
 				margin-right: auto;
 				width: 50%;
 			}
+			p {
+				text-align: center;
+			}
 		</style>
 	</head>
 	<body>
@@ -72,6 +75,7 @@
 				<h6>Résumé du projet</h6>
 					Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">CAPTAIN</a> a eu pour but de développer une nouvelle génération de capteurs plasmoniques se basant sur l'effet switch plasmonique. Cet effet plasmonique, utilisant un réseau de diffraction métallique profond, permet un transfert d'énergie dans la réponse angulaire du réseau de diffraction entre deux ordres, l'ordre 0 et l'ordre -1, comme le montre le graphique ci-dessous.
 					<img src="Switch.png" alt="Switch" class="center">
+					<p>Efficacité de diffraction des ordres réfléchis 0 et -1 d'un réseau sinusoïdal en or(période de nm et profonduer  nm) à une logueur d'onde de XX nm en polarization TM.</p>
 				<h6>Principaux résultats</h6>
 					<ul>
 						<li>Fabrication et réplication en sol-gel de réseaux sinusoïdaux "profonds"</li>
