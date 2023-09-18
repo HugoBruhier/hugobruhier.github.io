@@ -94,8 +94,8 @@
 					</ul>
 				<h6>Publications/conférences liées au projet</h6>
 					<ul>
-						<li><strong>Développement d'un capteur plasmonique pour le contrôe de la qualité de l'air</strong><br /><strong>H. Bruhier</strong><br /><em>Thèse de doctorat</em>, Université Jean Monnet, Saint-Etienne, 2023</li>
 						<li><strong>Conception et caractérisation de capteurs plasmoniques et conductimétriques dédiés à la mesure de N02 et 03 pour le contrôle de la qualité de l'air</strong><br />Thiaka Gueye<br /><em>Thèse de doctorat</em>, Université Clermont Auvergne, Clermont-Ferrand, 2023</li>
+						<li><strong>Développement d'un capteur plasmonique pour le contrôe de la qualité de l'air</strong><br /><strong>H. Bruhier</strong><br /><em>Thèse de doctorat</em>, Université Jean Monnet, Saint-Etienne, 2023</li>
 						<li><strong>Common-mode plasmon sensing scheme as a high-sensitivity compact SPR sensor</strong><br /><strong>H. Bruhier</strong>, J. Dutems, E. Laffont, N. Crespo-Monteiro, I. Verrier, O. Parriaux, P. Berini et Y. Jourlin<br /><em>Optics Letters</em>, 2023 <a href="https://doi.org/10.1364/OL.483692">[link]</a></li>
 						<li><strong>Surface plasmons propagation along metallic rough diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet, Y. Jourlin<br /><em>SPIE Photonics Europe 2022</em>, 2022 <a href="https://doi.org/10.1117/12.2620944">[link]</a> (oral)</li>
 						<li><strong>Effect of roughness on surface plasmons propagation along deep and shallow metallic diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet et Y. Jourlin<br /><em>Optics Letters</em>, 2022 <a href="https://doi.org/10.1364/OL.443659">[link]</a></li>
