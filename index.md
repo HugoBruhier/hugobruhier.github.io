@@ -79,7 +79,7 @@
 					<p>Efficacité de diffraction des ordres réfléchis 0 et -1 d'un réseau sinusoïdal en or(période de nm et profonduer  nm) à une logueur d'onde de XX nm en polarization TM.</p>
 				<h6>Principaux résultats</h6>
 					<ul>
-						<li>Fabrication et réplication en sol-gel de réseaux sinusoïdaux "profonds"</li>
+						<li>Fabrication (par LIL) et réplication en sol-gel de réseaux sinusoïdaux "profonds"</li>
 						<li>Démonstration de la possibilité d'utiliser l'effet switch comme mesure de variation d'indice</li>
 						<li>Sensibilité plasmonique de la phtalocyanine de cuivre à une gaz réducteur (NH<sub>3</sub>)</li>
 					</ul>
