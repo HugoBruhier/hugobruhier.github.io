@@ -52,7 +52,8 @@
 		</ul>
 		<h4>Oraux et posters</h4>
 		<ul>
-			<li><strong>Ultrashort laser-treated PVD ZrCu-based thin film metallic glasses, biological behaviour of the surfaces</strong><br />P. Steyer, N. Lebrun, Z. Fernandez-Gutierrez, <strong>H. Bruhier</strong>, M. Prudent, C. Der Loughian, S. Dassonneville, A. Borroto, F. Bourquard, F. Garrelie, M. Rousseau, J.F. Pierson et J.P. Colombier<br /><em>EMRS Spring Meeting 2023</em>, 2023 <a href="">[link]</a> (oral)</li>
+			<li><strong>Changes in the wettability of femtosecond laser-textured Zr-Cu thin-film metallic glasses</strong><br /> <strong>H. Bruhier</strong>, N. Lebrun, Z. Fernandez-Guttierez, M. Prudent, C. Der Loughian, S. Dassonneville, A. Borroto, F. Bourquard, F. Garrelie, M. Rousseau, J.F. Pierson, J.P. Colombier et P. Steyer<br /><em>11th LIPSS Workshop</em>, 2023 (oral)</li>
+			<li><strong>Ultrashort laser-treated PVD ZrCu-based thin film metallic glasses, biological behaviour of the surfaces</strong><br />P. Steyer, N. Lebrun, Z. Fernandez-Gutierrez, <strong>H. Bruhier</strong>, M. Prudent, C. Der Loughian, S. Dassonneville, A. Borroto, F. Bourquard, F. Garrelie, M. Rousseau, J.F. Pierson et J.P. Colombier<br /><em>EMRS Spring Meeting 2023</em>, 2023 (oral)</li>
 			<li><strong>Surface plasmons propagation along metallic rough diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet, Y. Jourlin<br /><em>SPIE Photonics Europe 2022</em>, 2022 <a href="https://doi.org/10.1117/12.2620944">[link]</a> (oral)</li>
 			<li><strong>Réseau de diffraction résonant activé thermiquement par dioxyde de vanadium</strong><br /><strong>H. Bruhier</strong>, E. K. Koussi, I. Verrier, T. Kampfe, S. Reynaud, F. Bourquard, D. Jamon, O. Parriaux, Y. Jourlin<br /><em>Congrès Optique de la SFO</em>, 2021 <a href="https://hal.archives-ouvertes.fr/hal-03346630">[link]</a> (poster)</li>
 			<li><strong>Fabrication of a Resonant Waveguide Grating (RWG) with a single-step TiO2 sol-gel technological approach on planar and non-conventional substrate (cylinder)</strong><br />M. A. Usuga Higuita, Y. Jourlin, N. Crespo-Monteiro, F. Vocanson, D. Jamon, M. Langlet, M. Hochedel, A. Valour, <strong>H. Bruhier</strong><br /><em>2nd Edition of World Nanotechnology Conference</em>, 2021 <a href="https://hal.archives-ouvertes.fr/hal-03273603">[link]</a> (oral)</li>
@@ -70,17 +71,13 @@
 			<li><strong><a href="#ProjetR2EX">R2EX</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>. Financé par le LABEX MANUTECH SISE. <a href="https://manutech-sise.universite-lyon.fr/axe-3-labex-2011-2019/projet-r2ex-54096.kjsp">[link]</a></li>
 		</ul>
 		<h4>Détail des participations aux projets de recherche</h4>
-			<h5><a id="ProjetSafe">SAFE</a></h5>
-				Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">SAFE</a>
-			<h5><a id="ProjetCaptain">CAPTAIN</a> (2018-2023)</h5>
-				<h6>Résumé du projet</h6>
-					Le projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">CAPTAIN</a> a eu pour but de développer une nouvelle génération de capteurs plasmoniques se basant sur l'effet switch plasmonique. Cet effet plasmonique, utilisant un réseau de diffraction métallique profond, permet un transfert d'énergie dans la réponse angulaire du réseau de diffraction entre deux ordres, l'ordre 0 et l'ordre -1, comme le montre le graphique ci-dessous.
-					<img src="Switch.png" alt="Switch" class="center">
-					<p>Efficacité de diffraction des ordres réfléchis 0 et -1 d'un réseau sinusoïdal en or(période de nm et profonduer  nm) à une logueur d'onde de XX nm en polarization TM.</p>
-				<h6>Principaux résultats</h6>
+			<h5><a id="ProjetSafe">SAFE</a> (2022-2024) <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a> </h5>
+			<h5><a id="ProjetCaptain">CAPTAIN</a> (2018-2023) <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a> </h5>
+				<h6>Principaux résultats du projet</h6>
 					<ul>
 						<li>Fabrication (par LIL) et réplication en sol-gel de réseaux sinusoïdaux "profonds"</li>
 						<li>Démonstration de la possibilité d'utiliser l'effet switch comme mesure de variation d'indice</li>
+						<li>Démonstration de la grande sensibilité de la phtalocyanine de cuivre en couche mince pour la mesure de NO<sub>2</sub> par transduction coductimétrique</li>
 						<li>Sensibilité plasmonique de la phtalocyanine de cuivre à une gaz réducteur (NH<sub>3</sub>)</li>
 					</ul>
 				<h6>Missions effectuées</h6>
@@ -126,6 +123,7 @@
 		</ul>
 		<h4>Encadrement de stagiaires</h4>
 		<ul>
+			<li><strong>Clémence Canas</strong> : Étude de la modificitation de la mouillabilité de verres métalliques texturés laser<br />Novembre 2023-Mars 2024, co-supervisée avec Philippe Steyer et Victor Trillaud</li>
 			<li><strong>Cécilia Perrette</strong> : Caractérisation dans l'espace fréquentiel d'images MEB<br />Juin-Juillet 2023, co-supervisée avec Florent Bourquard</li>
 			<li><strong>Yaël Pichon</strong> : Automatisation d'un banc de mesure angulaire<br />Avril-Juin 2022, co-supervisé avec Yves Jourlin, Isabelle Verrier et Nicolas Crespo-Monteiro</li>
 		</ul>
