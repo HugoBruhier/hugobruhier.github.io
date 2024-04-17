@@ -43,6 +43,7 @@
 		</ul>
 		<h4 style="color: #2e6c80;"><span style="color: #000000;">Publications internationales</span></h4>
 		<ul>
+			<li><strong>Characterization of perfect sinusoidal grating profile using artificial neural network for plasmonic based sensors</strong><br />M. Godi, S. Robert, B. Bayard, J. Dutems, <strong>H. Bruhier</strong>, Y. Jourlin et D. Jamon<br /><em>Applied Optics</em>, 2024 <a href="https://doi.org/10.1364/AO.520109">[link]</a></li>
 			<li><strong>Common-mode plasmon sensing scheme as a high-sensitivity compact SPR sensor</strong><br /><strong>H. Bruhier</strong>, J. Dutems, E. Laffont, N. Crespo-Monteiro, I. Verrier, O. Parriaux, P. Berini et Y. Jourlin<br /><em>Optics Letters</em>, 2023 <a href="https://doi.org/10.1364/OL.483692">[link]</a></li>
 			<li><strong>SiN/VO<sub>2</sub>/SiN Sandwich‐Based Resonant Waveguide Grating to Produce Thermally Activated Optical Components</strong><br />Y. Bleu, <strong>H. Bruhier</strong>, T. Pouit, A. Valour, D. Jamon, N. Crespo-Monteiro, L. Dubost, F. Bourquard, C. Donnet, O. Parriaux et Y. Jourlin<br /><em>Advanced Optical Materials</em>, 2023 <a href="https://doi.org/10.1002/adom.202300126">[link]</a></li>
 			<li><strong>Effect of roughness on surface plasmons propagation along deep and shallow metallic diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet et Y. Jourlin<br /><em>Optics Letters</em>, 2022 <a href="https://doi.org/10.1364/OL.443659">[link]</a></li>
@@ -52,7 +53,13 @@
 		</ul>
 		<h4>Oraux et posters</h4>
 		<ul>
+			<li><strong>Capteur plasmonique diffracto-interférentiel basé sur un couplage de modes de plasmon excités par réseau de diffraction</strong><br />Y. Jourlin, <strong>H. Bruhier</strong>, S. Kaur, P. Giraud, E. Laffont, A. Meyer, A. Valour, N. Crespo-Monteiro, J. Brunet, A. NDiaye, C. Varenne, D. Iandolo, P. Berini et I. Verrier<br /><em>Congrès Optique de la SFO</em>, 2024 (oral)</li>
+			<li><strong>Modulation of electrical, acoustic and optical properties of phthalocyanines by gas adsorption: interest for gas sensors development</strong><br />J. Brunet, <strong>H. Bruhier</strong>, A. Ndiaye, S. Rajab-Pacha, C. Varenne, A. Pauly et Y. Jourlin<br /><em>ICMSN2024</em>, 2024 (oral invité)</li>
+			<li><strong>Multiscale characterization of the wettability of thin film metallic glasses surfaces: Effect of a fs-laser treatment</strong><br /> <strong>H. Bruhier</strong>, N. Lebrun, Z. Fernández-Gutiérrez, V. Trillaud, C. Canas, C. Der Loughian, F. Bourquard, M. Rousseau, J.-P. Colombier, J.F. Pierson, F. Garrelie et P. Steyer<br /><em>EMRS Spring Metting 2024</em>, 2024 (oral)</li>
+			<li><strong>Effect of ultrashort laser texturing of Ag-enriched Zr-Ti thin film metallic glasses on their dental-linked biological properties</strong><br /> N. Lebrun, <strong>H. Bruhier</strong>, Z. Fernández-Gutiérrez, C. Der-Loughian, V. Trillaud, B. Ter- Ovanessian, F. Bourquard, L. Preiss, M. Rousseau, A. Guignandon, J.M. Pelletier, A.L. Chopard, N. Courtois, J.P. Colombier, J.F. Pierson, F. Garrelie et P. Steyer<br /><em>EMRS Spring Metting 2024</em>, 2024 (oral)</li>
+			<li><strong>SPR sensor based on switch effect for very low hydrogen detection</strong><br /> P. Giraud, <strong>H. Bruhier</strong>, I. Verrier, S. Rajab-Pacha, C. Varenne, J. Brunet, Amadou Ndiaye et Y. Jourlin<br /><em>SPIE Photonex</em>, 2023 (oral)</li>
 			<li><strong>Changes in the wettability of femtosecond laser-textured Zr-Cu thin-film metallic glasses</strong><br /> <strong>H. Bruhier</strong>, N. Lebrun, Z. Fernandez-Guttierez, M. Prudent, C. Der Loughian, S. Dassonneville, A. Borroto, F. Bourquard, F. Garrelie, M. Rousseau, J.F. Pierson, J.P. Colombier et P. Steyer<br /><em>11th LIPSS Workshop</em>, 2023 (oral)</li>
+			<li><strong>How to functionalize PVD ZrCu-based thin film metallic glasses? Effect of an ultrashort laser surface treatment</strong><br /> P. Steyer, N. Lebrun, Z. Fernández-Gutiérrez, <strong>H. Bruhier</strong>, M. Prudent, C. Der Loughian, S. Dassonneville, A. Borroto, F. Bourquard, M. Rousseau, J.F. Pierson, J.P. Colombier et F. Garrelie<br /><em>Plathinium</em>, 2023 (poster)</li>
 			<li><strong>Ultrashort laser-treated PVD ZrCu-based thin film metallic glasses, biological behaviour of the surfaces</strong><br />P. Steyer, N. Lebrun, Z. Fernandez-Gutierrez, <strong>H. Bruhier</strong>, M. Prudent, C. Der Loughian, S. Dassonneville, A. Borroto, F. Bourquard, F. Garrelie, M. Rousseau, J.F. Pierson et J.P. Colombier<br /><em>EMRS Spring Meeting 2023</em>, 2023 (oral)</li>
 			<li><strong>Surface plasmons propagation along metallic rough diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet, Y. Jourlin<br /><em>SPIE Photonics Europe 2022</em>, 2022 <a href="https://doi.org/10.1117/12.2620944">[link]</a> (oral)</li>
 			<li><strong>Réseau de diffraction résonant activé thermiquement par dioxyde de vanadium</strong><br /><strong>H. Bruhier</strong>, E. K. Koussi, I. Verrier, T. Kampfe, S. Reynaud, F. Bourquard, D. Jamon, O. Parriaux, Y. Jourlin<br /><em>Congrès Optique de la SFO</em>, 2021 <a href="https://hal.archives-ouvertes.fr/hal-03346630">[link]</a> (poster)</li>
@@ -129,6 +136,7 @@
 		</ul>
 		<h4>Divers</h4>
 		<ul>
+			<li>Membre (secrétaire (2021-2023)) du bureau fondateur de l'association ASESLEIGHT, Student Chapter d'Optica</li>
 			<li>Membre d'un groupe de musique depuis 2017 : Mimi H <a href="https://www.youtube.com/@mimih4029">Youtube</a> & <a href="https://fr-fr.facebook.com/emeline.mimih/">Facebook</a></li>
 			<li>Animation depuis novembre 2021 d'une scène ouverte hebdomadaire le dimanche au <a href="https://fr-fr.facebook.com/cafelesartistes/">café Les Artistes</a></li>
 		</ul>
