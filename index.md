@@ -32,6 +32,10 @@
 		<!--<h1>Hugo Bruhier</h1>-->
 		<h3><span style="color: #999999;">Post-doctorant en irradiation laser femtosecondes</span></h3>
 		<p>Après un doctorat au <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> sur l'optique diffractive et le développement d'un capteur de polluants atmosphériques au sein du projet <a href="https://anr.fr/Projet-ANR-18-CE04-0008">ANR CAPTAIN</a> je suis en post-doctorat sur l'irradiation laser femto-seconde. Ce nouveau projet s'inscrit dans le cadre du projet <a href="https://manutech-sleight.com/sleight-s-research-projects/safe-research-project-259621.kjsp">SAFE</a> au sein du laboratoire <a href="https://mateis.insa-lyon.fr/">Matéis</a>, coordonné par Philippe Steyer, où un laser ultrabref est utilisé pour modifier la surface de verres métalliques ZrCu, ZrCuAg et ZrTiAg pour des applications biologiques.</p>
+		<h4>Plan de la page</h4>
+		<ul>
+			<li><a href="#th%C3%A9matiques-de-recherche">Thématiques de recherche</a></li>
+		</ul>
 		<h4>Thématiques de recherche</h4>
 		<ul>
 			<li>Irradiation laser</li>
@@ -45,7 +49,7 @@
 		</ul>
 		<h4 style="color: #2e6c80;"><span style="color: #000000;">Publications internationales</span></h4>
 		<ul>
-			<li><strong>Influence of initial crystalline phase of TiO<sub>2</sub> to obtain TiN thin film from sol-gel route by rapid thermal nitridation process</strong><br />V. Vallejo-Otero, A. Valour, H. Bruhier, Y. Bleu, N. Ollier, Y. Lefkir, C. Donnet, N. Crespo-Monteiro et Y. Jourlin<br /><em>Progress in Solid State Chemistry</em>, 2024 <a href="https://doi.org/10.1016/j.progsolidstchem.2024.100462">[link]</a></li>
+			<li><strong>Influence of initial crystalline phase of TiO<sub>2</sub> to obtain TiN thin film from sol-gel route by rapid thermal nitridation process</strong><br />V. Vallejo-Otero, A. Valour, <strong>H. Bruhier</strong>, Y. Bleu, N. Ollier, Y. Lefkir, C. Donnet, N. Crespo-Monteiro et Y. Jourlin<br /><em>Progress in Solid State Chemistry</em>, 2024 <a href="https://doi.org/10.1016/j.progsolidstchem.2024.100462">[link]</a></li>
 			<li><strong>Characterization of perfect sinusoidal grating profile using artificial neural network for plasmonic based sensors</strong><br />M. Godi, S. Robert, B. Bayard, J. Dutems, <strong>H. Bruhier</strong>, Y. Jourlin et D. Jamon<br /><em>Applied Optics</em>, 2024 <a href="https://doi.org/10.1364/AO.520109">[link]</a></li>
 			<li><strong>Common-mode plasmon sensing scheme as a high-sensitivity compact SPR sensor</strong><br /><strong>H. Bruhier</strong>, J. Dutems, E. Laffont, N. Crespo-Monteiro, I. Verrier, O. Parriaux, P. Berini et Y. Jourlin<br /><em>Optics Letters</em>, 2023 <a href="https://doi.org/10.1364/OL.483692">[link]</a></li>
 			<li><strong>SiN/VO<sub>2</sub>/SiN Sandwich‐Based Resonant Waveguide Grating to Produce Thermally Activated Optical Components</strong><br />Y. Bleu, <strong>H. Bruhier</strong>, T. Pouit, A. Valour, D. Jamon, N. Crespo-Monteiro, L. Dubost, F. Bourquard, C. Donnet, O. Parriaux et Y. Jourlin<br /><em>Advanced Optical Materials</em>, 2023 <a href="https://doi.org/10.1002/adom.202300126">[link]</a></li>
@@ -83,6 +87,8 @@
 		</ul>
 		<h4>Détail des participations aux projets de recherche</h4>
 			<h5><a id="ProjetSafe">SAFE</a> (2022-2024) <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a> </h5>
+			<h5><a id="ProjetProtect">PROTECT</a> (2021-2023)</h5>
+			<h5><a id="ProjetNitruration">NITRURATION</a> (2021-2025)</h5>
 			<h5><a id="ProjetCaptain">CAPTAIN</a> (2018-2023) <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a> </h5>
 				<h6>Principaux résultats du projet</h6>
 					<ul>
@@ -100,10 +106,9 @@
 						<li><strong>Effect of roughness on surface plasmons propagation along deep and shallow metallic diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet et Y. Jourlin<br /><em>Optics Letters</em>, 2022 <a href="https://doi.org/10.1364/OL.443659">[link]</a></li>
 						<li><strong>Ultra hight sensitive NO<sub>2</sub> gas microsensor for environmental monitoring or mapping urban air quality</strong><br />T. Gueye, J. Brunet, A. Ndiaye, C. Varenne, E. Riuz et A. Pauly<br /><em>Sensors 2021</em>, 2021 <a href="https://hal.science/hal-03607665v1">[link]</a> (oral)</li>
 					</ul>
-			<h5><a id="ProjetProtect">PROTECT</a> (2021-2023)</h5>
 			<h5><a id="ProjetLueur">LUEUR</a> (2019-2023)</h5>
 			<h5><a id="ProjetMicrosolen">MICROSOLEN</a></h5>
-			<h6>Principaux résultats du projet</h6>
+				<h6>Principaux résultats du projet</h6>
 					<ul>
 						<li>Fabrication de réseaux résonants par voie sol-gel subtrats plans et de forme complexe (à l'intérieur de cylindres de verre)</li>
 						<li>Nitruration de sol TiO<sub>2</sub> en TiN par recuit thermique rapide</li>
@@ -111,7 +116,7 @@
 					</ul>
 				<h6>Publications/conférences liées au projet</h6>
 					<ul>
-						<li><strong>Elaboration des couches micro-nanostructurées de nitrure de titane (TiN) obtenues par le procédé de nitruration de couches sol-gel TiO<sub>2</sub></strong><br /><strong>M.A. Usuga Higita</strong><br /><em>Thèse de doctorat</em>, Université Jean Monnet, Saint-Etienne, 2022</li>
+						<li><strong>Elaboration des couches micro-nanostructurées de nitrure de titane (TiN) obtenues par le procédé de nitruration de couches sol-gel TiO<sub>2</sub></strong><br />M.A. Usuga Higita<br /><em>Thèse de doctorat</em>, Université Jean Monnet, Saint-Etienne, 2022</li>
 						<li><strong>TiN thin film made by nitridation of TiO2 sol-gel layer and rapid thermal nitridation process (RTN)</strong><br /> A. Valour, M.A. Husuga Higita, N. Crespo-Monteiro, F. Vocanson, D. Jamon, S. Reynaud, C. Donnet, M. Langlet et Y. Jourlin<br /><em>International Sol-Gel Conference Solgel 2022</em>, 2022 <a href="https://hal.science/ujm-03802605/">[link]</a> (oral)</li>
 						<li><strong>Micro-nanostruction de films minces d’oxyde de titane et de nitrure de titane pour des applications optiques</strong><br /> M.A. Usuga Higuita, A. Valour, S. Reynaud, F. Vocanson, M. Langlet, E. Gamet, N. Crespo-Monteiro et Y. Jourlin<br /><em>JSGAuRA14</em>, 2022 <a href="https://hal.science/ujm-03690643/">[link]</a> (oral)</li>
 						<li><strong>Fabrication of a Resonant Waveguide Grating (RWG) with a single-step TiO2 sol-gel technological approach on planar and non-conventional substrate (cylinder)</strong><br />M. A. Usuga Higuita, Y. Jourlin, N. Crespo-Monteiro, F. Vocanson, D. Jamon, M. Langlet, M. Hochedel, A. Valour, <strong>H. Bruhier</strong><br /><em>2nd Edition of World Nanotechnology Conference</em>, 2021 <a href="https://hal.archives-ouvertes.fr/hal-03273603">[link]</a> (oral)</li>
@@ -129,7 +134,7 @@
 					</ul>
 				<h6>Publications/conférences liées au projet</h6>
 					<ul>
-						<li><strong>Micro patterning of complex Waveguide Resonant Gratings (WRG)</strong><br /><strong>E.K. Koussi</strong><br /><em>Thèse de doctorat</em>, Université Jean Monnet, Saint-Etienne, 2020</li>
+						<li><strong>Micro patterning of complex Waveguide Resonant Gratings (WRG)</strong><br />E.K. Koussi<br /><em>Thèse de doctorat</em>, Université Jean Monnet, Saint-Etienne, 2020</li>
 						<li><strong>Réseau de diffraction résonant activé thermiquement par dioxyde de vanadium</strong><br /><strong>H. Bruhier</strong>, E. K. Koussi, I. Verrier, T. Kampfe, S. Reynaud, F. Bourquard, D. Jamon, O. Parriaux, Y. Jourlin<br /><em>Congrès Optique de la SFO</em>, 2021 <a href="https://hal.archives-ouvertes.fr/hal-03346630">[link]</a> (poster)</li>
 						<li><strong>Thermally activated resonant grating using a vanadium dioxide waveguide</strong><br />E. K. Koussi, I. Verrier, T. Kampfe, S. Reynaud, F. Bourquard, D. Jamon, <strong>H. Bruhier</strong>, Y. Jourlin et O. Parriaux<br /><em>Optics Express</em>, 2021 <a href="https://doi.org/10.1364/OME.413373">[link]</a></li>
 						<li><strong>Synthesis of vanadium oxides by pulsed laser deposition and rapid thermal annealing</strong><br />E.K. Koussi, F. Bourquard, T. Titte, D. Jamon, F. Garrelie et Y. Jourlin<br /><em>Applied Surface Science</em>, 2020 <a href="https://doi.org/10.1016/j.apsusc.2020.146267">[link]</a></li>
