@@ -35,6 +35,13 @@
 		<h4>Plan de la page</h4>
 		<ul>
 			<li><a href="#th%C3%A9matiques-de-recherche">Thématiques de recherche</a></li>
+			<li><a href="#publications-internationales">Publications internationales</a></li>
+			<li><a href="#oraux-et-posters">Oraux et posters</a></li>
+			<li><a href="#liste-des-projets-de-recherche-auxquels-jai-contribu%C3%A9">Liste des projets de recherche auxquels j'ai contribué</a></li>
+			<li><a href="#d%C3%A9tail-des-projets">Détails des projets</a></li>
+			<li><a href="#enseignement">Enseignement</a></li>
+			<li><a href="#encadrement-de-stagiaires">Encadrement de stagiaires</a></li>
+			<li><a href="#divers">Divers</a></li>
 		</ul>
 		<h4>Thématiques de recherche</h4>
 		<ul>
@@ -85,7 +92,7 @@
 			<li><strong><a href="#ProjetMicrosolen">MICROSOLEN</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipe <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a>) avec le <a href="https://lmgp.grenoble-inp.fr/">Laboratoire des Matériaux et du Génie Physique</a> (équipe ) et l'entreprise <a href="https://www.silsef.com/">Silsef</a>. Financé par la régio Auvergne-Rhône-Alpes.</li>
 			<li><strong><a href="#ProjetR2EX">R2EX</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>. Financé par le LABEX MANUTECH SISE. <a href="https://manutech-sise.universite-lyon.fr/axe-3-labex-2011-2019/projet-r2ex-54096.kjsp">[link]</a></li>
 		</ul>
-		<h4>Détail des participations aux projets de recherche</h4>
+		<h4>Détails des projets</h4>
 			<h5><a id="ProjetSafe">SAFE</a> (2022-2024) <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a> </h5>
 			<h5><a id="ProjetProtect">PROTECT</a> (2021-2023)</h5>
 			<h5><a id="ProjetNitruration">NITRURATION</a> (2021-2025)</h5>
@@ -151,7 +158,7 @@
 			<li>2020-2021 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des données (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur)</li>
 			<li>2019-2020 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donnés (IUT)</li>
 		</ul>
-		<h4>Détails des cours</h4>
+		<h5>Détails des cours</h5>
 		<ul>
 			<li><em>CM/TD Statistiques Industrielles</em><br />Rappels des bases de probabilités et statistiques. Tests du &xi<sup>2</sup>. Régression linéaire, multilinéaire et introduction à la régression non-linéaire.</li>
 			<li><em>TP Conditionnement des signaux analogiques</em><br />Notions à l'utilisation de la FFT sur es oscillosccopes numériques, étude et caractérisation de systèmes du deuxième ordre, oscillateur à pont de Wien, introduction à la modulation d'amplitude et introduction à l'asservissement par PID.(DUT Mesures Physiques Saint-Etienne, 2<sup>ème</sup> année et BUT Mesures Physiques Saint-Etienne, 2<sup>ème</sup> année)</li>
