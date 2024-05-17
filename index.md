@@ -50,6 +50,7 @@
 			<li>LIPSS</li>
 			<li>Optique diffractive</li>
 			<li>Traitement des données / Métrologie</li>
+			<li>Plasmonique</li>
 			<li>Nano-fabrication</li>
 			<li>Analyse de surfaces</li>
 			<li>Microscopie</li>
