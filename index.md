@@ -94,7 +94,7 @@
 			<li><strong><a href="#ProjetR2EX">R2EX</a></strong> : partenariat du <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html">Laboratoire Hubert Curien</a> (équipes <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/functional-materials-and-surfaces.html">Matériaux et surfaces fonctionnels</a> et <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/laser-matter-interaction.html">Intéraction Laser-Matière</a>) avec l'entreprise <a href="https://www.hef.fr/">HEF</a>. Financé par le LABEX MANUTECH SISE. <a href="https://manutech-sise.universite-lyon.fr/axe-3-labex-2011-2019/projet-r2ex-54096.kjsp">[link]</a></li>
 		</ul>
 		<h4>Détails des projets</h4>
-			<h5><a id="ProjetSafe">SAFE</a> (2022-2024) <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a> </h5>
+			<h5><a id="ProjetSafe">SAFE</a> (2022-2024) <a href="https://manutech-sleight.com/sleight-s-research-projects/safe-research-project-259621.kjsp">[link]</a> </h5>
 			<h5><a id="ProjetProtect">PROTECT</a> (2021-2023)</h5>
 			<h5><a id="ProjetNitruration">NITRURATION</a> (2021-2025)</h5>
 			<h5><a id="ProjetCaptain">CAPTAIN</a> (2018-2023) <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a> </h5>
