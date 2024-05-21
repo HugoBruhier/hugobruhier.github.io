@@ -95,8 +95,8 @@
 		</ul>
 		<h4>Détails des projets</h4>
 			<h5><a id="ProjetSafe">SAFE</a> (2022-2024) <a href="https://manutech-sleight.com/sleight-s-research-projects/safe-research-project-259621.kjsp">[link]</a> </h5>
-			<h5><a id="ProjetProtect">PROTECT</a> (2021-2023)</h5>
-			<h5><a id="ProjetNitruration">NITRURATION</a> (2021-2025)</h5>
+			<h5><a id="ProjetProtect">PROTECT</a> (2021-2023) <a href="https://manutech-sise.universite-lyon.fr/projet-protect-169582.kjsp">[link]</a></h5>
+			<h5><a id="ProjetNitruration">NITRURATION</a> (2021-2025) <a href="https://anr.fr/Projet-ANR-21-CE08-0042">[link]</a></h5>
 			<h5><a id="ProjetCaptain">CAPTAIN</a> (2018-2023) <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a> </h5>
 				<h6>Principaux résultats du projet</h6>
 					<ul>
