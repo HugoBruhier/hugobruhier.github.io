@@ -57,6 +57,7 @@
 		</ul>
 		<h4 style="color: #2e6c80;"><span style="color: #000000;">Publications internationales</span></h4>
 		<ul>
+			<li><strong>Metallic glasses for biological applications and opportunities opened by laser surface texturing: A review</strong><br />N. Lebrun, F. Dupla, <strong>H. Bruhier</strong>, M. Prudent, A. Borroto, C. Der Loughian, F. Bourquard, J.-M. Pelletier, M. Rousseau, J.-P. Colombier, J.-F. Pierson, F. Garrelie et P. Steyer<br /><em>Applied Surface Science</em>, 2024 <a href="https://doi.org/10.1016/j.apsusc.2024.160617">[link]</a></li>
 			<li><strong>Influence of initial crystalline phase of TiO<sub>2</sub> to obtain TiN thin film from sol-gel route by rapid thermal nitridation process</strong><br />V. Vallejo-Otero, A. Valour, <strong>H. Bruhier</strong>, Y. Bleu, N. Ollier, Y. Lefkir, C. Donnet, N. Crespo-Monteiro et Y. Jourlin<br /><em>Progress in Solid State Chemistry</em>, 2024 <a href="https://doi.org/10.1016/j.progsolidstchem.2024.100462">[link]</a></li>
 			<li><strong>Characterization of perfect sinusoidal grating profile using artificial neural network for plasmonic based sensors</strong><br />M. Godi, S. Robert, B. Bayard, J. Dutems, <strong>H. Bruhier</strong>, Y. Jourlin et D. Jamon<br /><em>Applied Optics</em>, 2024 <a href="https://doi.org/10.1364/AO.520109">[link]</a></li>
 			<li><strong>Common-mode plasmon sensing scheme as a high-sensitivity compact SPR sensor</strong><br /><strong>H. Bruhier</strong>, J. Dutems, E. Laffont, N. Crespo-Monteiro, I. Verrier, O. Parriaux, P. Berini et Y. Jourlin<br /><em>Optics Letters</em>, 2023 <a href="https://doi.org/10.1364/OL.483692">[link]</a></li>
@@ -98,6 +99,26 @@
 			<h5><a id="ProjetSafe">SAFE</a> (2022-2024) <a href="https://manutech-sleight.com/sleight-s-research-projects/safe-research-project-259621.kjsp">[link]</a> </h5>
 			<h5><a id="ProjetProtect">PROTECT</a> (2021-2023) <a href="https://manutech-sise.universite-lyon.fr/projet-protect-169582.kjsp">[link]</a></h5>
 			<h5><a id="ProjetNitruration">NITRURATION</a> (2021-2025) <a href="https://anr.fr/Projet-ANR-21-CE08-0042">[link]</a></h5>
+				<h6>Principaux résultats du projet</h6>
+					<ul>
+						<li>Nitruration de sol-gel TiO<sub>2</sub> et ZrO<sub>2</sub> par recuit thermique rapide</li>
+						<li>Réalisation de microstructures en sol-gel avant nitruration pour la création simple de structures en nitures</li>
+						<li>Étude des propriétés physiques des films nitrurés et comparaison avec la littérature</li>
+					</ul>
+				<h6>Publications/conférences liées au projet</h6>
+					<ul>
+						<li><strong>Influence of Initial Crystalline Phase of TiO<sub>2</sub> to Obtain TiN Thin Films from Sol-Gel Route by Rapid Thermal Nitridation Process</strong><br />V. Vallejo-Ottero, A. Valour, <strong>H. Bruhier</strong>, Y. Bleu, N. Ollier, Y. Lefkir, C. Donnet, N. Crespo-Monteiro et Y. Jourlin<br /><em>Progress in Solid State Chemistry</em>, 2024 <a href=https://doi.org/10.1016/j.progsolidstchem.2024.100462>[link]</a></li>
+						<li><strong>Micro-nanostructuring by optical-lithography and nitriding of photo-patternable ZrO<sub>2</sub> sol-gel to obtain micro-nanostructured ZrN</strong><br />V. Vallejo-Ottero, N. Crespo-Monteiro, A. Valour, C. Donnet, S. Reynaud, N. Ollier, M.F. Blanc Mignon, J.P. Chatelon, Y. Bleu, E. Gamet et Y. Jourlin<br /><em>SPIE Optical Systems Design</em>, 2024 <a href="https://doi.org/10.1117/12.3016633">[link]</a> (oral)</li>
+						<li><strong>Innovative process to obtain thin films and micro-nanostructured ZrN films from a photo-structurable ZrO<sub>2</sub> sol-gel using rapid thermal nitridation</strong><br />V. Vallejo-Ottero, N. Crespo-Monteiro, A. Valour, C. Donnet, S. Reynaud, N. Ollier, M.F. Blanc Mignon, J.P. Chatelon, Y. Bleu, E. Gamet et Y. Jourlin<br /><em>Materials Today Advances</em>, 2023 <a href="https://doi.org/10.1016/j.mtadv.2023.100430">[link]</a></li>
+						<li><strong>Process of obtention of titanium nitride by rapid thermal annealing</strong><br />V. Vallejo-Ottero, A. Valour, S. Reynaud, C. Donnet, E. Gamet, N. Crespo-Monteiro et Y. Jourlin<br /><em>11th International Symposium on Nitrides</em>, 2023 <a href="https://hal.science/hal-04094503/">[link]</a> (oral)</li>
+						<li><strong>Micro-nanostructure of titanium oxide and titanium nitride thin films for optical applications</strong><br />A. Valour, V. Vallejo-Ottero, S. Reynaud, E. Gamet, N. Crespo-Monteiro et Y. Jourlin<br /><em>11th International Symposium on Nitrides</em>, 2023 <a href="https://hal.science/hal-04094888/">[link]</a> (oral)</li>
+						<li><strong>Micro-nanostructuring by optical lithography and nitridation of photo-patternable TiO<sub>2</sub> sol-gel to obtain micro-nanostructured TiN</strong><br />V. Vallejo-Ottero, N. Crespo-Monteiro, E. Gamet, S. Reynaud et Y. Jourlin<br /><em>SPIE Advanced Lithography + Patterning</em>, 2023 <a href="https://doi.org/10.1117/12.2647262">[link]</a> (oral)</li>
+						<li><strong>Micro-nanostructuring of ZrO<sub>2</sub> sol-gel by optical and nanoimprint lithography on various substrate for optical applications</strong><br />V. Vallejo-Ottero, N. Crespo-Monteiro, E. Gamet, S. Reynaud, N. Ollier, A. Valour, M. Traynar et Y. Jourlin<br /><em>SPIE Advanced Lithography + Patterning</em>, 2023 <a href="https://doi.org/10.1117/12.2657886">[link]</a> (poster)</li>
+						<li><strong>Innovative process of micro-nanostructure of titanium nitride (TiN) by association of a photostructurable titanium oxide (TiO<sub>2</sub>) and a rapid thermal annealing (RTA)</strong><br />V. Vallejo-Ottero, A. Valour, S. Reynaud, E. Gamet, C. Donnet, N. Crespo-Monteiro et Y. Jourlin<br /><em>C'Nano The nanoscience meeting</em>, 2023 <a href="https://hal.science/hal-04094487/">[link]</a> (oral)</li>
+						<li><strong>Nouveau procédé de micro-nanostructuration de couches de nitrure de titane (TiN) par la combinaison d'un sol-gel d'oxide de titane (TiO<sub>2</sub>) et d'un recuit rapide thermique (RTA)</strong><br />V. Vallejo-Ottero, A. Valour, S. Reynaud, E. Gamet, N. Crespo-Monteiro et Y. Jourlin<br /><em>JNTE</em>, 2022 <a href="https://hal.science/hal-04094437/">[link]</a></li>
+						<li><strong>Versatile Zirconium Oxide (ZrO<sub>2</sub>) Sol-Gel Development for the Micro-Structuring of Various Substrates (Nature and Shape) by Optical and Nano-Imprint Lithography</strong><br />N. Crespo-Monteiro, A. Valour, V. Vallejo-Ottero, M. Traynar, S. Reynaud, E. Gamet et Y. Jourlin<br /><em>Materials</em>, 2022 <a href="https://doi.org/10.3390/ma15165596">[link]</a></li>
+						<li>Procédé d'obtention de nitrure de titane par recuit thermique rapide</strong><br />V. Vallejo Ottero, A. Valour, M. A. Usuga Higita, S. Reynaud, C. Donnet, E. Gamet, N. Crespo-Monteiro et Y. Jourlin<br /><em>JSGAuRA14</em>, 2022 <a href="https://hal.science/hal-03933264/">[link]</a> (oral)</li>
+					</ul>
 			<h5><a id="ProjetCaptain">CAPTAIN</a> (2018-2023) <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a> </h5>
 				<h6>Principaux résultats du projet</h6>
 					<ul>
@@ -115,7 +136,6 @@
 						<li><strong>Effect of roughness on surface plasmons propagation along deep and shallow metallic diffraction gratings</strong><br /><strong>H. Bruhier</strong>, I. Verrier, T. Gueye, C. Varenne, A. Ndiaye, O. Parriaux, C. Veillas, S. Reynaud, J. Brunet et Y. Jourlin<br /><em>Optics Letters</em>, 2022 <a href="https://doi.org/10.1364/OL.443659">[link]</a></li>
 						<li><strong>Ultra hight sensitive NO<sub>2</sub> gas microsensor for environmental monitoring or mapping urban air quality</strong><br />T. Gueye, J. Brunet, A. Ndiaye, C. Varenne, E. Riuz et A. Pauly<br /><em>Sensors 2021</em>, 2021 <a href="https://hal.science/hal-03607665v1">[link]</a> (oral)</li>
 					</ul>
-			<!--<h5><a id="ProjetLueur">LUEUR</a> (2019-2023)</h5>-->
 			<h5><a id="ProjetMicrosolen">MICROSOLEN</a></h5>
 				<h6>Principaux résultats du projet</h6>
 					<ul>
@@ -155,14 +175,14 @@
 					</ul>
 		<h4>Enseignement</h4>
 		<ul>
-			<li>2023-2024 : TP Conditionnement des signaux analogiques (IUT)</li>
-			<li>2021-2022 : TP Conditionnement des signaux analogiques (IUT), TP Optique Ondulatoire (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur)</li>
-			<li>2020-2021 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des données (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur)</li>
-			<li>2019-2020 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donnés (IUT)</li>
+			<li>2023-2024 : TP Conditionnement des signaux analogiques (IUT). Env. 50h</li>
+			<li>2021-2022 : TP Conditionnement des signaux analogiques (IUT), TP Optique Ondulatoire (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur). Env. 90h</li>
+			<li>2020-2021 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des données (IUT), CM/TD Statistiques Industrielles (Ecole d'ingénieur). Env. 90h</li>
+			<li>2019-2020 : TP Métrologie (IUT), TP Optique Ondulatoire (IUT), TP Traitement des donnés (IUT). Env. 60h</li>
 		</ul>
 		<h5>Détails des cours</h5>
 		<ul>
-			<li><em>CM/TD Statistiques Industrielles</em><br />Rappels des bases de probabilités et statistiques. Tests du &xi<sup>2</sup>. Régression linéaire, multilinéaire et introduction à la régression non-linéaire.</li>
+			<li><em>CM/TD Statistiques Industrielles</em><br />Rappels des bases de probabilités et statistiques. Tests du &xi<sup>2</sup>. Régression linéaire, multilinéaire et introduction à la régression non-linéaire. (Formation en alternance en Image et Photonique à Télécom Saint-Etienne, Bac+4)</li>
 			<li><em>TP Conditionnement des signaux analogiques</em><br />Notions à l'utilisation de la FFT sur es oscillosccopes numériques, étude et caractérisation de systèmes du deuxième ordre, oscillateur à pont de Wien, introduction à la modulation d'amplitude et introduction à l'asservissement par PID.(DUT Mesures Physiques Saint-Etienne, 2<sup>ème</sup> année et BUT Mesures Physiques Saint-Etienne, 2<sup>ème</sup> année)</li>
 			<li><em>TP Métrologie</em><br />Caractérisation de l'incertitude d'une chaine de mesure dans son ensemble, vérification d'appareils de mesures à partir d'étalon, incertitude par loi de propagation et introduction aux tests du &xi<sup>2</sup>. (DUT Mesures Physiques Saint-Etienne, 2<sup>ème</sup> année)</li>
 			<li><em>TP Optique Ondulatoire</em><br />Caractérisation d'une diode laser, introduction à la polarisation, mesure optique par la figure de diffraction, filtrage spatial, mise en place d'une monochromateur et mesure de température/déformation par réseau de Bragg. (DUT Mesures Physiques Saint-Etienne, 2<sup>ème</sup> année)</li>
@@ -170,9 +190,10 @@
 		</ul>
 		<h4>Encadrement de stagiaires</h4>
 		<ul>
-			<li><strong>Clémence Canas</strong> : Étude de la modificitation de la mouillabilité de verres métalliques texturés laser<br />Novembre 2023-Mars 2024, co-supervisée avec Philippe Steyer et Victor Trillaud</li>
-			<li><strong>Cécilia Perrette</strong> : Caractérisation dans l'espace fréquentiel d'images MEB<br />Juin-Juillet 2023, co-supervisée avec Florent Bourquard</li>
-			<li><strong>Yaël Pichon</strong> : Automatisation d'un banc de mesure angulaire<br />Avril-Juin 2022, co-supervisé avec Yves Jourlin, Isabelle Verrier et Nicolas Crespo-Monteiro</li>
+			<li><strong>Mélissa Cormimboeuf</strong> (L3): Instrumentation et contrôle via Python d'un scanner laser pour irradiation sous vide<br />Juin 2024-Luillet 2024, co-supervisée avec Nicolas Faure et Anthony Cazier</li>
+			<li><strong>Clémence Canas</strong> (M2): Étude de la modificitation de la mouillabilité de verres métalliques texturés laser<br />Novembre 2023-Mars 2024, co-supervisée avec Philippe Steyer et Victor Trillaud</li>
+			<li><strong>Cécilia Perrette</strong> (M1): Caractérisation dans l'espace fréquentiel d'images MEB<br />Juin-Juillet 2023, co-supervisée avec Florent Bourquard</li>
+			<li><strong>Yaël Pichon</strong> (L2): Automatisation d'un banc de mesure angulaire<br />Avril-Juin 2022, co-supervisé avec Yves Jourlin, Isabelle Verrier et Nicolas Crespo-Monteiro</li>
 		</ul>
 		<h4>Divers</h4>
 		<ul>
