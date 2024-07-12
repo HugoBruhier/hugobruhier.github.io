@@ -97,7 +97,25 @@
 		<h4>Détails des projets</h4>
 			<h5><a id="ProjetSafe">SAFE</a> (2022-2024) <a href="https://manutech-sleight.com/sleight-s-research-projects/safe-research-project-259621.kjsp">[link]</a> </h5>
 			<h5><a id="ProjetProtect">PROTECT</a> (2021-2023) <a href="https://manutech-sise.universite-lyon.fr/projet-protect-169582.kjsp">[link]</a></h5>
+				<h6>Principal contributeur: Yannick Bleu</h6>
+				<h6>Responsable scientifique: Christophe Donnet</h6>
+				<h6>Principaux résultats du projet</h6>
+					<ul>
+						<li>Synthèse de couches de VO<sub>2</sub> avec et sans dopage par PLD et recuit rapide</li>
+						<li>Démonstration de la modification de la température de transition de phase avec différents dopages</li>
+						<li>Réalisation d'un réseau résonant switchable en température via un guide d'onde symétrique</li>
+					</ul>
+				<h6>Publications/conférences liées au projet</h6>
+					<ul>
+						<li><strong>SiN/VO<sub>2</sub>/SiN Sandwich‐Based Resonant Waveguide Grating to Produce Thermally Activated Optical Components</strong><br />Y. Bleu, <strong>H. Bruhier</strong>, T. Pouit, A. Valour, D. Jamon, N. Crespo-Monteiro, L. Dubost, F. Bourquard, C. Donnet, O. Parriaux et Y. Jourlin<br /><em>Advanced Optical Materials</em>, 2023 <a href="https://doi.org/10.1002/adom.202300126">[link]</a></li>
+						<li><strong>Polymorphism of VO<sub>2</sub> thin film: M1, T, and M2 single phase synthesis using pulsed laser deposition</strong><br />Y. Bleu, F. Bourquard, K. Misdanitis, A. Poulet, A.-S. Loir, F. Garrelie et C. Donnet<br /><em>Materials Today Communication</em>, 2023 <a href="https://doi.org/10.1016/j.mtcomm.2023.105564">[link]</a></li>
+						<li><strong>Thermochromic properties of BN/VO<sub>2</sub>/BN trilayer films with low phase transition temperature and high hysteresis width</strong><br />Y. Bleu, F. Bourquard, A. Poulet, K. Misdanitis, D. Jamon, A.-S. Loir, F. Garrelie et C. Donnet<br /><em>Ceramic International</em>, 2023 <a href="https://doi.org/10.1016/j.ceramint.2022.12.229">[link]</a></li>
+						<li><strong>Towards Room Temperature Phase Transition of W-Doped VO<sub>2</sub> Thin Films Deposited by Pulsed Laser Deposition: Thermochromic, Surface, and Structural Analysis</strong><br />Y. Bleu, F. Bourquard, V. Barnier, A.-S. Loir, F. Garrelie et C. Donnet<br /><em>Materials</em>, 2023 <a href="https://doi.org/10.3390/ma16010461">[link]</a></li>
+						<li><strong>Tailoring thermochromic and optical properties of VO<sub>2</sub> thin films by pulsed laser deposition using different starting routes</strong><br />Y. Bleu, F. Bourquard, D. Jamon, A.-S. Loir, F. Garrelie et C. Donnet<br /><em>Optical Materials</em>, 2022 <a href="https://doi.org/10.1016/j.optmat.2022.113004">[link]</a></li>
+					</ul>
 			<h5><a id="ProjetNitruration">NITRURATION</a> (2021-2025) <a href="https://anr.fr/Projet-ANR-21-CE08-0042">[link]</a></h5>
+				<h6>Principal contributeur: Victor Vallejo-Ottero</h6>
+				<h6>Responsable scientifique: Nicolas Crespo-Monteiro</h6>
 				<h6>Principaux résultats du projet</h6>
 					<ul>
 						<li>Nitruration de sol-gel TiO<sub>2</sub> et ZrO<sub>2</sub> par recuit thermique rapide</li>
@@ -119,6 +137,8 @@
 						<li><strong>Procédé d'obtention de nitrure de titane par recuit thermique rapide</strong><br />V. Vallejo Ottero, A. Valour, M. A. Usuga Higita, S. Reynaud, C. Donnet, E. Gamet, N. Crespo-Monteiro et Y. Jourlin<br /><em>JSGAuRA14</em>, 2022 <a href="https://hal.science/hal-03933264/">[link]</a> (oral)</li>
 					</ul>
 			<h5><a id="ProjetCaptain">CAPTAIN</a> (2018-2023) <a href="https://anr.fr/Projet-ANR-18-CE04-0008">[link]</a> </h5>
+				<h6>Principaux contributeurs: Hugo Bruhier et Thiaka Gueye</h6>
+				<h6>Responsables scientifiques: Jérôme Brunet et Yves Jourlin</h6>
 				<h6>Principaux résultats du projet</h6>
 					<ul>
 						<li>Fabrication (par LIL) et réplication en sol-gel de réseaux sinusoïdaux "profonds"</li>
@@ -136,6 +156,8 @@
 						<li><strong>Ultra hight sensitive NO<sub>2</sub> gas microsensor for environmental monitoring or mapping urban air quality</strong><br />T. Gueye, J. Brunet, A. Ndiaye, C. Varenne, E. Riuz et A. Pauly<br /><em>Sensors 2021</em>, 2021 <a href="https://hal.science/hal-03607665v1">[link]</a> (oral)</li>
 					</ul>
 			<h5><a id="ProjetMicrosolen">MICROSOLEN</a></h5>
+				<h6>Principal contributeur: Maria Alejandra Usuga Higita</h6>
+				<h6>Responsables scientifiques: Nicolas Crespo-Monteiro et Francis Vocanson</h6>
 				<h6>Principaux résultats du projet</h6>
 					<ul>
 						<li>Fabrication de réseaux résonants par voie sol-gel subtrats plans et de forme complexe (à l'intérieur de cylindres de verre)</li>
@@ -154,6 +176,8 @@
 						<li><strong>Elaboration d’un réseau métallique par ammonolyse d’un revêtement TiO<sub>2</sub> photogravable</strong><br />M.A. Usuga Higita, N. Crespo-Monteiro, D. Jamon, F. Vocanson, I. Verrier, M. Langlet et Y. Jourlin<br /><em>Journées Sol-gel 2019</em>, 2019 <a href="https://ujm.hal.science/ujm-02319511/">[link]</a> (oral)</li>
 					</ul>
 			<h5><a id="ProjetR2EX">R2EX</a> (2016-2019)</h5>
+				<h6>Principal contributeur: Erieta Katerina Koussi</h6>
+				<h6>Responsables scientifiques: Yves Jourlin et Florent Bourquard</h6>
 				<h6>Principaux résultats du projet</h6>
 					<ul>
 						<li>Fabrication de réseaux résonants sur des subtrats plans et de forme complexe (à l'intérieur de cylindres de verre)</li>
